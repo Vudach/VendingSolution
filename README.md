@@ -7,9 +7,14 @@
 
 ## Как запустить
 
-### 1. Запусти API (сервер)
-
 ```cmd
 cd VendingAPI
 dotnet restore
 dotnet run
+_________________________________________________________________
+Для запуска проекта:
+1. Установить .NET 8.0 SDK
+2. Скачать или клонировать репозиторий
+3. Запустить VendingAPI → dotnet run
+4. Запустить VendingApp → dotnet run
+5. Войти: rushan.chernyshov@inbox.ru / HFGDRET765
